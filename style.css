@@ -1,0 +1,17 @@
+body{
+    color: black;
+    margin: auto;
+}
+.headings{
+    color: rgb(0, 255, 170);
+    border: 2px solid black;
+    width: 90%;
+    background-color: azure;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+    padding-left: 10px;
+}
+#headings{
+    color: blue;
+}
